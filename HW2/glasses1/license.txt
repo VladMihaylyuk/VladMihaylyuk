@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glasses
+* source:	https://sketchfab.com/3d-models/glasses-e600c2c548cb4c35b74f1cc620c77d19
+* author:	Rendy K (https://sketchfab.com/rakasimatupang44)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glasses" (https://sketchfab.com/3d-models/glasses-e600c2c548cb4c35b74f1cc620c77d19) by Rendy K (https://sketchfab.com/rakasimatupang44) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

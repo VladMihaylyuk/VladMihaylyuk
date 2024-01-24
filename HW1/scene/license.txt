@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flat seashell
+* source:	https://sketchfab.com/3d-models/flat-seashell-4277ee1a514c431cb777f1c93d3e3d2e
+* author:	Johan Stringer (https://sketchfab.com/johan.stringer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flat seashell" (https://sketchfab.com/3d-models/flat-seashell-4277ee1a514c431cb777f1c93d3e3d2e) by Johan Stringer (https://sketchfab.com/johan.stringer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
